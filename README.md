@@ -1,10 +1,5 @@
 # UI-UX-Experiment 1
 
-## Aim:
-To explore the fundamentals of UI and UX, differentiate between them using real-world case studies, illustrate their relationship in design, and demonstrate various UI/UX design tools.
-
----
-
 ## Algorithm:
 1. Study the fundamental concepts and definitions of User Interface (UI) and User Experience (UX).
 2. List the key components that make up UI (visual design, layout, interactive elements) and UX (usability, information architecture, user research).
@@ -43,3 +38,14 @@ UI is a subset of the broader UX. UX defines the strategy — who the user is an
 |---|---|
 | Figma | Collaborative wireframing, UI design, and prototyping |
 | Adobe XD | UI/UX design and prototyping, integrates with Creative Cloud |
+| Sketch | High-fidelity UI design (macOS only) |
+| InVision | Turning static screens into clickable prototypes |
+| Canva | Beginner-friendly design for simple mockups and assets |
+| Balsamiq | Low-fidelity wireframing |
+| Axure RP | Advanced prototyping with complex logic |
+| Zeplin | Design-to-developer handoff |
+
+---
+
+## Result:
+The fundamentals of UI and UX were successfully explored and differentiated using real-world case studies. The relationship between UI and UX was illustrated through an analogy and a design process flow, and various UI/UX design tools were identified along with their key features and use cases. The experiment demonstrates that UI and UX are complementary rather than interchangeable — effective digital products require both strong visual design and a well-thought-out user experience.
